@@ -1,3 +1,5 @@
+# in this file we are using streams.first() to get the videos
+
 import tkinter as tk
 import pytube
 def downloadVid():
