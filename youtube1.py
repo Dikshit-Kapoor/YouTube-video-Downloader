@@ -1,4 +1,4 @@
-# in this file we are using get_videos() method
+# in this file we are using get_videos() method and using tkinter for UI.
 
 import tkinter as tk
 
