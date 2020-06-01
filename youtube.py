@@ -1,4 +1,4 @@
-# in this file we are using streams.first() to get the videos
+# in this file we are using streams.first() to get the videos and tkinter for UI.
 
 import tkinter as tk
 import pytube
